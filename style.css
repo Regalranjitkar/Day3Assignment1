@@ -1,0 +1,48 @@
+*{
+    margin:auto;
+}
+.page-wrapper{
+    background-color: white;
+    width: auto;
+    height: 99.5vh;    
+    border: 1px solid black;
+    /* margin: auto; */
+}
+.grn-box{
+    background-color: green;
+    width: 99.5%;
+    height: 12.5vh;
+    border: 1px solid black;
+}
+.first-box{
+    width: 20%;
+    height: 73.5vh;
+    border: 1px solid black;
+    display: inline-block;
+}
+.pic-box{
+    width: 60%;
+    height: 73.5vh;
+    border: 1px solid black;
+    display: inline-block;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+img{
+    width: 90%;
+    height: 50%;
+    margin-top: 15%;
+}
+.third-box{
+    width: 17%;
+    height: 73.5vh;
+    border: 1px solid black;
+    display: inline-block;
+}
+.blu-box{
+        background-color: blue;
+        width: 99.5%;
+        height: 12.5vh;
+        border: 1px solid black;
+}
+
